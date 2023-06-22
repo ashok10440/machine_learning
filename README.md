@@ -27,6 +27,4 @@ Assignment-1 is done by using Jupyter Notebook.This assignment mainly focus on N
 In This assignmet, we learn by creatininvolves implementing various programming elements using the pandas and scikit-learn libraries. The first part involves working with a provided CSV file, where the student must perform basic statistical analysis, check for null values and replace them with the mean, and aggregate data using various functions. The second part involves working with two different datasets (Titanic and Glass) and implementing Naïve Bayes and linear SVM methods using scikit-learn, as well as visualizing correlations within the datasets. The student must also report on the accuracy of each method and justify which algorithm achieved better accuracy.
 
 ### Document and Video Of Assignment-2
-[Assignment-2 Document](https://docs.google.com/document/d/1rf7JY2aiHeq-Tl25IHp9B95aPuMLD99q/edit?usp=drive_link&ouid=114649899518724120426&rtpof=true&sd=true)
-
 [Assignment-2 Demo Video](https://drive.google.com/file/d/1oq5aObTTVTqIVkAJRuhgQYLOPrlS8H45/view?usp=drive_link)
